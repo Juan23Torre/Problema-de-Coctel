@@ -1,6 +1,6 @@
 # Problema-de-Coctel
 **Fecha:** 3 de septiembre de 2024  
-**Autor:** Juan. Julián y Eliana 
+**Autor:** Juan Andres Torres Benavides, Julián David Rodríguez y Eliana Camila Peña
 
 ## Descripción
 Breve descripción del objetivo del laboratorio y los resultados obtenidos.
